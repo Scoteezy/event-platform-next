@@ -1,3 +1,4 @@
+// ====== USER PARAMS
 export type CreateUserParams = {
   clerkId: string;
   firstName: string;
