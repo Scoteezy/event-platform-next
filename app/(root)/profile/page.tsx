@@ -5,7 +5,6 @@ import { getOrdersByUser } from "@/lib/actions/order.actions";
 import { IOrder } from "@/lib/database/models/order.model";
 import { SearchParamProps } from "@/types";
 import { auth } from "@clerk/nextjs";
-import events from "events";
 import Link from "next/link";
 import React from "react";
 
