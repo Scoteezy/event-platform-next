@@ -1,7 +1,7 @@
 # Evently Platform
 Full stack web-app for events creation and subscription! 
 ## ✅ Prewiew
-Live Prewiev: [Click Here](event-platform-next.vercel.app)
+Live Prewiev: [Click Here](https://event-platform-next.vercel.app/)
 ## ⚙️ Tech Stack
 * Node.js
 * Next.js
